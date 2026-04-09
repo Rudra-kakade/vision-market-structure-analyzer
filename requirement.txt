@@ -1,0 +1,9 @@
+streamlit
+streamlit-cropper
+opencv-python-headless
+numpy
+scipy
+Pillow
+fastapi
+uvicorn[standard]
+python-multipart
